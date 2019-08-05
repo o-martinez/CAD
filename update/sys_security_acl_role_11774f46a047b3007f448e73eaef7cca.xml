@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-05 13:34:58</sys_created_on>
+        <sys_id>11774f46a047b3007f448e73eaef7cca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_omars_app_newtable.x_cdltd_omars_app.newtable_user</sys_name>
+        <sys_package display_value="Omars App" source="x_cdltd_omars_app">801595dda08773007f448e73eaef7c52</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Omars App">801595dda08773007f448e73eaef7c52</sys_scope>
+        <sys_security_acl display_value="x_cdltd_omars_app_newtable">55774f46a047b3007f448e73eaef7cc7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_11774f46a047b3007f448e73eaef7cca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-05 13:34:58</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_omars_app.newtable_user" name="x_cdltd_omars_app.newtable_user">01774f46a047b3007f448e73eaef7c53</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
